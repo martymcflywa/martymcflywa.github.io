@@ -1,12 +1,18 @@
 # Site settings
 title: marty learns the codes
-email: martymcfly.wa@gmail.com
+tagline: and other fun bits
 description: "This is where I leave notes to myself about stuff so I don't forget... about stuff"
 baseurl: ""
 url: "http://martymcflywa@github.io"
+version: 1.1.1
+author: marty
+email: martymcfly.wa@gmail.com
+
 # twitter_username: jekyllrb
 github_username:  martymcflywa
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
 permalink: pretty
+pygments: true
+paginate: 5
