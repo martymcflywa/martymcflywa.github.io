@@ -1,7 +1,7 @@
 # Site settings
 title: marty learns to codes
 tagline: marty learns to codes
-description: "this is where I leave notes to myself about stuff so I don't forget... about stuff"
+description: 
 baseurl: /
 url: http://martymcflywa.github.io/martymcflywa/
 version: 2.1.0
