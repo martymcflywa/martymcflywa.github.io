@@ -1,18 +1,19 @@
 # Site settings
 title: marty learns the codes
-tagline: marty learns them good
+tagline: marty learns the codes
 description: "This is where I leave notes to myself about stuff so I don't forget... about stuff"
-baseurl: ""
-url: "http://martymcflywa.github.io/martymcflywa/"
-version: 1.1.1
+baseurl: /
+url: http://martymcflywa.github.io/martymcflywa/
+version: 2.1.0
 author: marty
 email: martymcfly.wa@gmail.com
 
 # twitter_username: jekyllrb
 github_username:  martymcflywa
+repo: https://github.com/martymcflywa
 
 # Build settings
-markdown: rdiscount
+markdown: redcarpet
 permalink: pretty
-pygments: true
+highlighter: pygments
 paginate: 5
