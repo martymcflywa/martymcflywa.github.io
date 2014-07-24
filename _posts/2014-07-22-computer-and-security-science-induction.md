@@ -53,7 +53,7 @@ These workshops require registration. Click [here](http://intranet.ecu.edu.au/st
 ### CASSA - Computer and Security Science Association ###
 
 [CASSA](https://www.cassa.org.au) organise events that include programming tutorials, gaming nights and LANs as well as sell second hand computer science textbooks. They are located at ML3.202. CASSA will be hosting the following event:
->Python tutorial at ML13.131 on Tuesdays starting August 12th from 14:00.
+>Python tutorial at ML13.131 on Tuesdays starting August 12th from 14:00. Linux tutorial will follow at 15:00 in the same room.
 
 IRC: `irc.cassa.org.au`
 
