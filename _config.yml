@@ -13,7 +13,8 @@ github_username:  martymcflywa
 repo: https://github.com/martymcflywa
 
 # Build settings
-markdown: redcarpet
+markdown: redcarpet2
+redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 permalink: pretty
 highlighter: pygments
