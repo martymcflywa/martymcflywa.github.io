@@ -7,7 +7,9 @@ categories: web development
 
 But it probably doesn't... it's just me, probably.
 
-After a fairly long break in web design, or any design for that matter, I was recently referred to someone to help them redesign their website/e-store which runs on Wordpress and uses the Woocommerce plugin for their store. I figured it would be a good opportunity to brush up on my design skills and learn some new tricks. The deadline is fairly loose since they already have a current site, so I decided to go with using SVGs to display their brand spanking new logo that I designed, as well as masking some elements with SVG to create some curved lines in the layout. 
+After a fairly long break in web design, or any design for that matter, I was recently referred to someone to help them redesign their website/e-store which runs on Wordpress and uses the Woocommerce plugin for their store. I figured it would be a good opportunity to brush up on my design skills and learn some new tricks. The deadline is fairly loose since they already have a current site, so I decided to go with using SVGs to display their brand spanking new logo that I designed, as well as masking some elements with SVG to create some curved lines in the layout.
+
+<!--more-->
 
 So for most of my time spent developing their theme so far, I was using Chrome to preview. After a week into coding, I fired up IE 9 to take a look and was sorely disappointed in what I saw. So here's what I should have done.
 

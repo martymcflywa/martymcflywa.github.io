@@ -21,6 +21,8 @@ I attended today's induction lecture at ECU Mt. Lawley campus which covered gene
 
 A successful student is expected to fulfil approximately 40 hours a week of study time, including contact hours.
 
+<!--more-->
+
 ### ACS - Australian Computer Society ###
 
 [ACS](http://www.acsfoundation.com.au/) is a non-profit organisation that connects students with companies to help kickstart their career through Work Integrated Learning scholarships/internships. Second year students are to approach Dr. Justin Brown for assessment. For qualification, students generally require a high score average. As stated above, a student who commits around 40 hours a week will fall into this category. Point of contact is [Carolyn](mailto:adminwa@acsfoundation.com.au).
