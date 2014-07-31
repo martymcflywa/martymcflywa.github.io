@@ -222,5 +222,3 @@ categories:
 	- Statements about what functions or services the system will provide
 - Systems specification
 	- Contain all the information necessary to develop an information system
-	
-*See systems.todo*
