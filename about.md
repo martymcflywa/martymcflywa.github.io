@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Who the F*CK is Marty?
 
-Grew up in Sydney and followed a girl all the way to Perth where Marty now lives. He has previously studied Graphic Design and has dabbled in freelance work designing logos, websites (static and CRM based) and promotional material for small businesses. Marty also has work experience as a Business Analyst for a local utility company for two years. 
+Grew up in Sydney and followed a girl all the way to Perth where Marty now lives. He has previously studied Graphic Design and has dabbled in freelance work designing logos, websites (static and CMS based) and promotional material for small businesses. Marty also has work experience as a Business Analyst for a local utility company for two years. 
 
 Outside of work, Marty taught himself how to mix two records together hap-hazardly and managed to worm his way into permanent residency in Perth nightclubs for almost 10 years under the pseudonym *Marty Mcfly*. He also managed to score a few annual gigs at some national music festivals, and was even featured on [Triple J](https://soundcloud.com/martymcfly/triple-j-the-club-2007-09-07). Marty also tried his hand at music production and managed to score a [digital release](http://www.junodownload.com/products/the-perth-city-ep/1973471-02/) through Grits N Gravy. But the indulgent, sleepless rockstar lifestyle finally caught up with him and Marty sadly hung up the headphones in 2013.
 
