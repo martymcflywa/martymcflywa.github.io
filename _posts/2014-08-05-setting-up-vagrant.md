@@ -27,6 +27,8 @@ To get this working, first install Vagrant and Virtual Box. Create a folder for 
 $ vagrant init marty/trusty64
 ```
 
+<!--more-->
+
 Alternatively, you can replace `marty/trusty64` with another [box](https://vagrantcloud.com/discover/featured) if you prefer a different OS or a vanilla version of Ubuntu.
 
 This will create a `Vagrantfile` which can be edited to further customize the setup, like portforwarding or sharing folders between the host and client VM. Check Vagrant's [documentation](http://docs.vagrantup.com/v2/) for more information.
