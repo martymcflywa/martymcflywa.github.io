@@ -25,7 +25,7 @@ categories:
 
 ### Functional Requirements Examples
 
-- Short, simple, succinct statements.
+- Short, simple, succinct statements
 - System must...
 - Application must...
 
