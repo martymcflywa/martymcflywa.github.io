@@ -16,10 +16,9 @@ categories:
 | `˅`    | `OR`                  | Or                                             |
 | `→`    | `IF THEN`             | Conditional                                    |
 | `≡`    | `LOGICAL EQUIVALENCE` | Is equal to                                    |
+| `├`    | `CONCLUSION`          | Anything to the right of `├` is the conclusion |
 
 <!--more-->
-
-`|` = `CONCLUSION` = Anything to the right of `|` is the conclusion
 
 # Lecture 2
 
