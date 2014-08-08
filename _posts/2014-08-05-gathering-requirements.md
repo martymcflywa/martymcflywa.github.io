@@ -7,7 +7,9 @@ categories:
 - CSI1241
 ---
 
-*Notes taken while watching [lynda.com](http://www.lynda.com/Programming-tutorials/Foundations-of-Programming-Object-Oriented-Design/96949-2.html) Foundations of Programming - Object Oriented Design*
+Notes taken from: 
+
+>[lynda.com](http://www.lynda.com/Programming-tutorials/Foundations-of-Programming-Object-Oriented-Design/96949-2.html) *Foundations of Programming - Object Oriented Design*
 
 - What is the application / system required to do? 
 - What must it do?

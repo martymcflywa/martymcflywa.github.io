@@ -7,7 +7,9 @@ categories:
 - CSG1132
 ---
 
-Notes taken from: Joseph D. Novak & Alberto J. Canas (2006). *"The Theory Underlying Concept Maps and How To Construct and Use Them"*, Institute for Human and Machine Cognition. Retrieved 8 August, 2014 from: http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyingConceptMapsHQ.pdf
+Notes taken from: 
+
+>Joseph D. Novak & Alberto J. Canas (2006). *"The Theory Underlying Concept Maps and How To Construct and Use Them"*, Institute for Human and Machine Cognition. [Retrieved](http://cmap.ihmc.us/Publications/ResearchPapers/TheoryUnderlyingConceptMapsHQ.pdf) 8 August, 2014.
 
 ## Parking Lot
 
