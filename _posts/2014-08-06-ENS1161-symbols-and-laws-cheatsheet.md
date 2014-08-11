@@ -47,13 +47,13 @@ The laws are essentially the same, but are just presented differently.
 
 `~(A ˅ B) ≡ ~A ˄ ~B` corresponds to `(A ∪ B)' = A' ∩ B'`
 
-| Logic   | Set  |
-|---------|------|
-| `~`     | `'`  |
-| `˄`     | `∩`  |
-| `˅`     | `∪` |
-| `true`  | `U`  |
-| `false` | `∅`  |
+| Logic   | Set  | Boolean |
+|---------|------|---------|
+| `~`     | `'`  | `'`     |         
+| `˄`     | `∩`  | `•`     |
+| `˅`     | `∪` | `+`     |
+| `true`  | `U`  | `1`     |
+| `false` | `∅`  | `0`     |
 
 ## Negations
 
@@ -108,3 +108,16 @@ A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)
 (A ∩ B)'' = A' ∪ B'
 ```
 
+## Boolean Algebra Laws
+
+### Laws for Multiplication
+
+`0 • 0 = 0` `0 • 1 = 0` `1 • 0 = 0` `1 • 1 = 1`
+
+### Laws for Addition
+
+`0 + 0 = 0` `0 + 1 = 1` `1 + 0 = 1` `1 + 1 = 1`
+
+### Laws for Complementation
+
+`0' = 1` `1' = 0`
