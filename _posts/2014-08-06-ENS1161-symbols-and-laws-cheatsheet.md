@@ -114,7 +114,7 @@ Is a collection of all the possible combinations of subsets, including `∅`, th
 
 If `A = {1, 2, 3}` 
 
-Then `P(A) = {{`∅`}, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}`
+Then `P(A) = [{`∅`}, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}]`
 
 Formula to work it out is `2^n`, where `n = number of subsets`
 
@@ -122,11 +122,17 @@ Formula to work it out is `2^n`, where `n = number of subsets`
 
 ## Laws for Multiplication
 
-`0 • 0 = 0` `0 • 1 = 0` `1 • 0 = 0` `1 • 1 = 1`
+- `0 • 0 = 0` 
+- `0 • 1 = 0` 
+- `1 • 0 = 0`
+- `1 • 1 = 1`
 
 ## Laws for Addition
 
-`0 + 0 = 0` `0 + 1 = 1` `1 + 0 = 1` `1 + 1 = 1`
+- `0 + 0 = 0` 
+- `0 + 1 = 1`
+- `1 + 0 = 1`
+- `1 + 1 = 1`
 
 ## Laws for Complementation
 
@@ -149,7 +155,7 @@ Formula to work it out is `2^n`, where `n = number of subsets`
 ## Associative Laws
 
 - `(a + b) + c = a + (b + c)`
-- (a • b) • c = a • (b • c)`
+- `(a • b) • c = a • (b • c)`
 
 ## Commutative Laws
 
