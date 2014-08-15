@@ -105,8 +105,18 @@ A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)
 
 ```
 (A ∪ B)' = A' ∩ B'
-(A ∩ B)'' = A' ∪ B'
+(A ∩ B)' = A' ∪ B'
 ```
+
+## Power Sets
+
+Is a collection of all the possible combinations of subsets, including `∅`, the empty set.
+
+If `A = {1, 2, 3}` 
+
+Then `P(A) = {{`∅`}, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}`
+
+Formula to work it out is `2^n`, where `n = number of subsets`
 
 ## Boolean Algebra Laws
 
@@ -121,3 +131,53 @@ A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)
 ### Laws for Complementation
 
 `0' = 1` `1' = 0`
+
+### Idempotent Laws
+
+- `a + a = a`
+- `a • a = a`
+
+### Complement Laws
+
+- `a + a' = 1`
+- `a • a' = 0`
+
+### Involution Law
+
+- `(a')' = a`
+
+### Associative Laws
+
+- `(a + b) + c = a + (b + c)`
+- (a • b) • c = a • (b • c)`
+
+### Commutative Laws
+
+- `a + b = b + a`
+- `a • b = b • a`
+
+### Distributive Laws
+
+- `a + b • c = (a + b) • (a + c)`
+- `a • (b + c) = a • b + a • c`
+
+### de Morgan's Laws
+
+- `(a + b)' = a' • b'`
+- `(a • b)' = a' + b'`
+
+### Identity Laws
+
+- `a + 0 = a`
+- `a • 1 = a`
+- `a + 1 = 1`
+- `a • 0 = 0`
+
+## Fundamental Products
+
+Formula to work out is how many fundamental products is `2^n`, where `n = number of variables`
+
+There are two key concepts to remember:
+
+- In a fundamental product, each variable must be present, with or without `'`
+- Each fundamental product is equal to 1 for one and only one combination of the variables
