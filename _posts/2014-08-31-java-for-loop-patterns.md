@@ -50,6 +50,8 @@ static void patternD() {
 }
 {% endhighlight %}
 
+<!--more-->
+
 So the `if` statement inside the second loop checks whether or not `row` OR `col` is the same as `CROSS_POS`, which in this case was `2`. If it is, then `+` is printed. If it isn't, `*` is printed instead, resulting in the fourth pattern shown above.
 
 Here's a video that explains it very well at around [6:33](http://youtu.be/DoUdYh9V5aQ?t=6m33s).
